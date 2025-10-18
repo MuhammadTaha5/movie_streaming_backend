@@ -106,4 +106,4 @@ def hybrid_search_title(user_query, top_n=10, w_sim=0.6, w_rating=0.25, w_pop=0.
 
     return top_movies
 
-print(hybrid_search_title("inception", w_sim=0.7, w_rating=0.2, w_pop=0.1))
+

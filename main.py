@@ -29,3 +29,4 @@ def semanticTitleSearch(title: str):
 @app.get("/movies/hybrid/{title}")
 def hybridTitleSearch(title: str):
     result = hybrid_search_title(title)
+    return {"message": result}
