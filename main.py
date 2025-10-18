@@ -4,6 +4,7 @@ from fastapi import FastAPI, Query
 from services.keywordSearch import keyword_search
 from services.titleSearchSemantic import semantic_search_title
 from services.semanticTitleModel import preprocess
+from services.hybridSearch import hybrid_search_title
 
 app = FastAPI()
 @app.get("/")
@@ -24,3 +25,7 @@ def search_movies(
 def semanticTitleSearch(title: str):
     result = semantic_search_title(title)
     return {"result": result}
+
+@app.get("/movies/hybrid/{title}")
+def hybridTitleSearch(title: str):
+    result = hybrid_search_title(title)

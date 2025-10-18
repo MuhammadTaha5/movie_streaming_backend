@@ -31,6 +31,7 @@ def semantic_search(user_query, top_n=10):
     
     top_indices = np.argsort(similarities[0])[::-1][:top_n]
     
+    
     top_movies = []
     for i in top_indices:
         movie = movies[i].copy()

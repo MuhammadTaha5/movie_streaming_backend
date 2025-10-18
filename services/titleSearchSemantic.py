@@ -7,27 +7,19 @@ from services.semanticTitleModel import preprocess
 from config.db_config import get_db
 from sentence_transformers import SentenceTransformer
 
-# -------------------------------
-# Load pre-trained embedding model
-# -------------------------------
 model = SentenceTransformer('all-MiniLM-L6-v2')  # Fast & efficient
 
-# -------------------------------
-# Connect to MongoDB
-# -------------------------------
 db = get_db()
 movies_col = db["movies"]
 
-# -------------------------------
-# Fetch titles and embeddings from DB
-# -------------------------------
 movies = []
 embeddings_list = []
 
-for doc in movies_col.find({}, {"title": 1, "embedding": 1, "_id": 0}):
+for doc in movies_col.find({}, {"title": 1, "embedding": 1,"rating": 1, "watch_count": 1, "_id": 0}):
     if "embedding" in doc and doc["embedding"] is not None:
         movies.append({"title": doc["title"]})
         embeddings_list.append(doc["embedding"])
+
 
 # Check if embeddings exist
 if not embeddings_list:
