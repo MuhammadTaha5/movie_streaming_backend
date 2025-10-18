@@ -3,8 +3,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from fastapi import FastAPI, Query
 from services.keywordSearch import keyword_search
 from services.titleSearchSemantic import semantic_search_title
-from services.semanticTitleModel import preprocess
 from services.hybridSearch import hybrid_search_title
+from services.userHistory import getUserHistoryById
+from services.reviewsdata import get_movie_reviews
 
 app = FastAPI()
 @app.get("/")
@@ -21,12 +22,28 @@ def search_movies(
     results = keyword_search(title, director, cast, limit)
     return {"results": results}
 
+
 @app.get("/movies/title/{title}")
 def semanticTitleSearch(title: str):
     result = semantic_search_title(title)
     return {"result": result}
 
+
 @app.get("/movies/hybrid/{title}")
 def hybridTitleSearch(title: str):
     result = hybrid_search_title(title)
     return {"message": result}
+
+
+@app.get('/users/{userId}/history')
+def userHistory(userId: str):
+    result = getUserHistoryById(userId)
+    return {
+        'result': result
+    }
+
+
+@app.get("/movies/{movie_id}/reviews")
+def movie_reviews(movie_id: str):
+    result = get_movie_reviews(movie_id)
+    return {'result': result}
