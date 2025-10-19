@@ -6,7 +6,7 @@ from services.titleSearchSemantic import semantic_search_title
 from services.hybridSearch import hybrid_search_title
 from services.userHistory import getUserHistoryById
 from services.reviewsdata import get_movie_reviews
-
+from services.topWatchedMovies import getPopularMovies
 app = FastAPI()
 @app.get("/")
 def home():
@@ -47,3 +47,10 @@ def userHistory(userId: str):
 def movie_reviews(movie_id: str):
     result = get_movie_reviews(movie_id)
     return {'result': result}
+
+
+@app.get("/topWatchedMovies")
+def topWatchedMovies():
+    return {
+        'Result': getPopularMovies()
+    }
