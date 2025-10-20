@@ -1,0 +1,736 @@
+[{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2534"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2457"
+  },
+  "rating": 7.3,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-09-09T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2538"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2492"
+  },
+  "rating": 9.1,
+  "review_text": "Amazing performances by the lead actors.",
+  "timestamp": {
+    "$date": "2025-09-23T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2539"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2486"
+  },
+  "rating": 9,
+  "review_text": "Cinematography was stunning.",
+  "timestamp": {
+    "$date": "2025-10-16T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2468"
+  },
+  "rating": 9,
+  "review_text": "Visually impressive but lacked depth.",
+  "timestamp": {
+    "$date": "2025-09-25T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2540"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248a"
+  },
+  "rating": 6,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-10-03T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2541"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2494"
+  },
+  "rating": 7.5,
+  "review_text": "Too long and dragged at parts.",
+  "timestamp": {
+    "$date": "2025-08-21T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2544"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2448"
+  },
+  "rating": 8.6,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-10-12T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2499"
+  },
+  "rating": 8.2,
+  "review_text": "Visually impressive but lacked depth.",
+  "timestamp": {
+    "$date": "2025-10-12T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2552"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245a"
+  },
+  "rating": 8.2,
+  "review_text": "Visually impressive but lacked depth.",
+  "timestamp": {
+    "$date": "2025-08-25T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2484"
+  },
+  "rating": 9.3,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-08-24T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2476"
+  },
+  "rating": 8.8,
+  "review_text": "Amazing performances by the lead actors.",
+  "timestamp": {
+    "$date": "2025-10-14T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247c"
+  },
+  "rating": 10,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-08-27T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2542"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a249b"
+  },
+  "rating": 8.6,
+  "review_text": "Too long and dragged at parts.",
+  "timestamp": {
+    "$date": "2025-08-29T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2545"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246d"
+  },
+  "rating": 7.7,
+  "review_text": "An instant classic!",
+  "timestamp": {
+    "$date": "2025-10-03T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2546"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2488"
+  },
+  "rating": 6,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-08-21T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2548"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2480"
+  },
+  "rating": 6.7,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-09-27T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248a"
+  },
+  "rating": 6.8,
+  "review_text": "Emotional and powerful ending.",
+  "timestamp": {
+    "$date": "2025-10-14T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2457"
+  },
+  "rating": 6.3,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-09-14T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2443"
+  },
+  "rating": 6.8,
+  "review_text": "Too long and dragged at parts.",
+  "timestamp": {
+    "$date": "2025-08-29T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2551"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2443"
+  },
+  "rating": 9.4,
+  "review_text": "Cinematography was stunning.",
+  "timestamp": {
+    "$date": "2025-09-01T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2557"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2456"
+  },
+  "rating": 6.6,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-09-08T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2558"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2451"
+  },
+  "rating": 6.1,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-10-06T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2447"
+  },
+  "rating": 7.7,
+  "review_text": "An instant classic!",
+  "timestamp": {
+    "$date": "2025-09-19T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2533"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2495"
+  },
+  "rating": 7.7,
+  "review_text": "An instant classic!",
+  "timestamp": {
+    "$date": "2025-09-02T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2535"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2494"
+  },
+  "rating": 6.2,
+  "review_text": "Amazing performances by the lead actors.",
+  "timestamp": {
+    "$date": "2025-09-20T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2441"
+  },
+  "rating": 5,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-09-05T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2484"
+  },
+  "rating": 7.1,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-10-02T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "rating": 8.1,
+  "review_text": "Visually impressive but lacked depth.",
+  "timestamp": {
+    "$date": "2025-08-27T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2549"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2472"
+  },
+  "rating": 5.7,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-09-21T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2550"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2497"
+  },
+  "rating": 9.2,
+  "review_text": "Amazing performances by the lead actors.",
+  "timestamp": {
+    "$date": "2025-10-05T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2559"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2473"
+  },
+  "rating": 7.2,
+  "review_text": "Emotional and powerful ending.",
+  "timestamp": {
+    "$date": "2025-09-07T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2448"
+  },
+  "rating": 7.5,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-10-09T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244f"
+  },
+  "rating": 7.7,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-08-30T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a255f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2495"
+  },
+  "rating": 5.3,
+  "review_text": "An instant classic!",
+  "timestamp": {
+    "$date": "2025-08-18T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2536"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2452"
+  },
+  "rating": 9.5,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-09-09T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2537"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2455"
+  },
+  "rating": 8.7,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-08-24T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a253a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2446"
+  },
+  "rating": 9.1,
+  "review_text": "Predictable plot but entertaining.",
+  "timestamp": {
+    "$date": "2025-10-13T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2543"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "rating": 6.5,
+  "review_text": "Absolutely loved it! Must watch.",
+  "timestamp": {
+    "$date": "2025-10-02T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2547"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2486"
+  },
+  "rating": 7.9,
+  "review_text": "Amazing performances by the lead actors.",
+  "timestamp": {
+    "$date": "2025-10-08T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244d"
+  },
+  "rating": 8.4,
+  "review_text": "Emotional and powerful ending.",
+  "timestamp": {
+    "$date": "2025-10-05T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a254f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2476"
+  },
+  "rating": 5.8,
+  "review_text": "Emotional and powerful ending.",
+  "timestamp": {
+    "$date": "2025-08-23T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2553"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2491"
+  },
+  "rating": 5.5,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-09-13T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2554"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2445"
+  },
+  "rating": 5.6,
+  "review_text": "Good storyline but a bit slow in the middle.",
+  "timestamp": {
+    "$date": "2025-08-30T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2555"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2472"
+  },
+  "rating": 7.7,
+  "review_text": "Predictable plot but entertaining.",
+  "timestamp": {
+    "$date": "2025-09-02T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f26f366fb4862d984a2556"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2472"
+  },
+  "rating": 7.9,
+  "review_text": "Music and direction were top-notch.",
+  "timestamp": {
+    "$date": "2025-09-09T16:30:46.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f6248a122d0294bc40dac4"
+  },
+  "user_id": {
+    "$oid": "68f61a544492c966691f91da"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2443"
+  },
+  "rating": 8.2,
+  "review_text": "Nice But slow in end.",
+  "timestamp": {
+    "$date": "2025-10-20T12:01:14.153Z"
+  }
+}]

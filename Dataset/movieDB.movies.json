@@ -1,0 +1,3047 @@
+[{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2440"
+  },
+  "title": "Bloody Sunday",
+  "description": "Discover reviews, ratings, and trailers for Bloody Sunday on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2002,
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "James Nesbitt"
+    },
+    {
+      "name": "Tim Pigott-Smith"
+    },
+    {
+      "name": "Nicholas Farrell"
+    },
+    {
+      "name": "Gerard McSorley"
+    },
+    {
+      "name": "Kathy Kiera Clarke"
+    }
+  ],
+  "director": "Paul Greengrass",
+  "rating": {
+    "average": 92,
+    "review_count": 106,
+    "ratings_count": 106
+  },
+  "popularity": 4,
+  "created_at": "2025-10-17T14:04:59.152505"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2443"
+  },
+  "title": "Devil's Acid",
+  "description": "Discover reviews, ratings, and trailers for Devil's Acid on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Drew Rin Varick"
+    },
+    {
+      "name": "Ashley Dulaney"
+    },
+    {
+      "name": "Jessica Lynn Parsons"
+    },
+    {
+      "name": "Betty Jeune"
+    },
+    {
+      "name": "Eric Gibson"
+    }
+  ],
+  "director": "Garrett Kruithof",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152542"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2444"
+  },
+  "title": "Far from the Nile",
+  "description": "Discover reviews, ratings, and trailers for Far from the Nile on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "cast": [
+    "Tom Cruise",
+    "Emma Stone"
+  ],
+  "director": "Sherief Elkatsha",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152547"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2445"
+  },
+  "title": "The Kid (1950)",
+  "description": "Discover reviews, ratings, and trailers for The Kid (1950) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Bruce Lee"
+    },
+    {
+      "name": "Lee Hoi-chuen"
+    },
+    {
+      "name": "Feng Feng"
+    },
+    {
+      "name": "Yee Chau Sui"
+    },
+    {
+      "name": "Chan Wai-Yue"
+    }
+  ],
+  "director": "Fung Fung",
+  "rating": {
+    "average": 67,
+    "review_count": 0,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152553"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2447"
+  },
+  "title": "Beauty of the Underworld",
+  "description": "Discover reviews, ratings, and trailers for Beauty of the Underworld on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Michitaro Mizushima"
+    },
+    {
+      "name": "Mari Shiraki"
+    },
+    {
+      "name": "Yusuke Ashida"
+    },
+    {
+      "name": "Tôru Abe"
+    },
+    {
+      "name": "Hideaki Nitani"
+    }
+  ],
+  "director": "Seijun Suzuki",
+  "rating": {
+    "average": 79,
+    "review_count": 10,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152565"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244a"
+  },
+  "title": "A New Capitalism",
+  "description": "Discover reviews, ratings, and trailers for A New Capitalism on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    {
+      "name": "José Ignacio Avalos"
+    },
+    {
+      "name": "Antonio Ermírio De Moraes Neto"
+    },
+    {
+      "name": "Claudio Sassaki"
+    },
+    {
+      "name": "Muhammad Yunus"
+    }
+  ],
+  "director": "Henry Grazinoli",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152586"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244b"
+  },
+  "title": "Swiss Army Man",
+  "description": "Being stranded on a deserted island leaves young Hank (Paul Dano) bored, lonely and without hope. As a rope hangs around his neck, Hank prepares to end it all, until he suddenly spots a man (Daniel Radcliffe) laying by the shore. Unfortunately, he is dead and quite flatulent. Using the gassy body to his advantage, Hank miraculously makes it back to the mainland. However, he now finds himself lost in the wilderness, and dragging the talking corpse named Manny along for the adventure.",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+  ],
+  "cast": [
+    "Tom Cruise",
+    "Scarlett Johansson"
+  ],
+  "director": "Christian Sky",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152591"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244f"
+  },
+  "title": "The Center (2015)",
+  "description": "Discover reviews, ratings, and trailers for The Center (2015) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2015,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Matt Cici"
+    },
+    {
+      "name": "Judd Einan"
+    },
+    {
+      "name": "Amanda Day"
+    },
+    {
+      "name": "Annie Einan"
+    },
+    {
+      "name": "Justin Diehl"
+    }
+  ],
+  "director": "Charlie Griak",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152612"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2451"
+  },
+  "title": "Darkness in the Light",
+  "description": "Discover reviews, ratings, and trailers for Darkness in the Light on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Mystery & Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Kiichi Nakai"
+    },
+    {
+      "name": "Naomi Hosokawa"
+    },
+    {
+      "name": "Nagiko Tono"
+    },
+    {
+      "name": "Yukiya Kitamura"
+    },
+    {
+      "name": "Takayuki Katô"
+    }
+  ],
+  "director": "Kei Kumai",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152625"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2455"
+  },
+  "title": "Available",
+  "description": "Discover reviews, ratings, and trailers for Available on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2016,
+  "genres": [
+    "Drama",
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Yangzom Brauen"
+    },
+    {
+      "name": "Laura Lee"
+    },
+    {
+      "name": "Nissa Von Reiter"
+    },
+    {
+      "name": "Guillermo Jorge"
+    },
+    {
+      "name": "Les Mahoney"
+    }
+  ],
+  "director": "Les Mahoney",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152649"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2457"
+  },
+  "title": "Grace: The Possession (2014)",
+  "description": "Discover reviews, ratings, and trailers for Grace: The Possession (2014) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Alexia Fast"
+    },
+    {
+      "name": "Alan Dale"
+    },
+    {
+      "name": "Lin Shaye"
+    },
+    {
+      "name": "Alexis Knapp"
+    },
+    {
+      "name": "Joel David Moore"
+    }
+  ],
+  "director": "Jeff Chan",
+  "rating": {
+    "average": 33,
+    "review_count": 2,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152659"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2462"
+  },
+  "title": "Rolling Thunder",
+  "description": "Discover reviews, ratings, and trailers for Rolling Thunder on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Jake Thomas Armbruster"
+    },
+    {
+      "name": "Wes Studi"
+    },
+    {
+      "name": "Joe Mantegna"
+    },
+    {
+      "name": "Katherine Muise"
+    },
+    {
+      "name": "Serena Scott Thomas"
+    }
+  ],
+  "director": "Peter Curtis Pardini",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152720"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2467"
+  },
+  "title": "The New World",
+  "description": "Discover reviews, ratings, and trailers for The New World on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2005,
+  "genres": [
+    "History",
+    "Drama",
+    "Adventure",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Colin Farrell"
+    },
+    {
+      "name": "Christian Bale"
+    },
+    {
+      "name": "Q'orianka Kilcher"
+    },
+    {
+      "name": "Jason Aaron Baca"
+    },
+    {
+      "name": "Greg Cooper"
+    }
+  ],
+  "director": "Terrence Malick",
+  "rating": {
+    "average": 63,
+    "review_count": 190,
+    "ratings_count": 190
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152750"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246c"
+  },
+  "title": "The Twisted Son",
+  "description": "Discover reviews, ratings, and trailers for The Twisted Son on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2019,
+  "genres": [
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Andrea Roth"
+    },
+    {
+      "name": "Tygh Runyan"
+    },
+    {
+      "name": "Katie Douglas"
+    },
+    {
+      "name": "Eric Osborne"
+    },
+    {
+      "name": "Tim Post"
+    }
+  ],
+  "director": "Caroline Labrèche",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152775"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246e"
+  },
+  "title": "Along for the Ride (2022)",
+  "description": "Discover reviews, ratings, and trailers for Along for the Ride (2022) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Emma Pasarow"
+    },
+    {
+      "name": "Belmont Cameli"
+    },
+    {
+      "name": "Andie MacDowell"
+    },
+    {
+      "name": "Dermot Mulroney"
+    },
+    {
+      "name": "Kate Bosworth"
+    }
+  ],
+  "director": "Sofía Álvarez",
+  "rating": {
+    "average": 58,
+    "review_count": 26,
+    "ratings_count": 26
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152785"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "title": "My Story",
+  "description": "Discover reviews, ratings, and trailers for My Story on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Prithviraj Sukumaran"
+    },
+    {
+      "name": "Parvathy Thiruvothu"
+    },
+    {
+      "name": "Ganesh Venkatraman"
+    },
+    {
+      "name": "Manoj K. Jayan"
+    },
+    {
+      "name": "Maniyanpilla Raju"
+    }
+  ],
+  "director": "Roshni Dinaker",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 4,
+  "created_at": "2025-10-17T14:04:59.152790"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2472"
+  },
+  "title": "The Mind Reader",
+  "description": "Discover reviews, ratings, and trailers for The Mind Reader on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Warren William"
+    },
+    {
+      "name": "Constance Cummings"
+    },
+    {
+      "name": "Allen Jenkins"
+    },
+    {
+      "name": "Don Dillaway"
+    },
+    {
+      "name": "Mayo Methot"
+    }
+  ],
+  "director": "Roy Del Ruth",
+  "rating": {
+    "average": 50,
+    "review_count": 3,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152810"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2475"
+  },
+  "title": "Andalucia: Revenge of the Goddess",
+  "description": "Discover reviews, ratings, and trailers for Andalucia: Revenge of the Goddess on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Yûji Oda"
+    },
+    {
+      "name": "Meisa Kuroki"
+    },
+    {
+      "name": "Erika Toda"
+    },
+    {
+      "name": "Shôsuke Tanihara"
+    },
+    {
+      "name": "Takeshi Kaga"
+    }
+  ],
+  "director": "Hiroshi Nishitani",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152825"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2477"
+  },
+  "title": "Uniform",
+  "description": "Discover reviews, ratings, and trailers for Uniform on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Kai Han"
+    },
+    {
+      "name": "Hongli Liang"
+    },
+    {
+      "name": "Hua Qin"
+    },
+    {
+      "name": "Xueqiong Zeng"
+    }
+  ],
+  "director": "Diao Yinan",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152840"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247f"
+  },
+  "title": "Roman (2023)",
+  "description": "Discover reviews, ratings, and trailers for Roman (2023) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Simeon Henderson"
+    },
+    {
+      "name": "Sarah Cigan"
+    },
+    {
+      "name": "Harold Dennis"
+    },
+    {
+      "name": "Tiffany Harrell"
+    }
+  ],
+  "director": "Simeon Henderson",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152882"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2480"
+  },
+  "title": "ZORORI THE NAUGHTY HERO - The Brave Space Voyagers",
+  "description": "Discover reviews, ratings, and trailers for ZORORI THE NAUGHTY HERO - The Brave Space Voyagers on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Anime"
+  ],
+  "cast": [
+    "Leonardo DiCaprio",
+    "Brad Pitt"
+  ],
+  "director": "Tomoko Iwasaki",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152887"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2483"
+  },
+  "title": "Alarum",
+  "description": "Discover reviews, ratings, and trailers for Alarum on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2025,
+  "genres": [
+    "Action",
+    "Mystery & Thriller",
+    "Crime"
+  ],
+  "cast": [
+    {
+      "name": "Scott Eastwood"
+    },
+    {
+      "name": "Sylvester Stallone"
+    },
+    {
+      "name": "Willa Fitzgerald"
+    },
+    {
+      "name": "Mike Colter"
+    },
+    {
+      "name": "Ísis Valverde"
+    }
+  ],
+  "director": "Michael Polish",
+  "rating": {
+    "average": 69,
+    "review_count": 20,
+    "ratings_count": 20
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152904"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2486"
+  },
+  "title": "Fury of the Fist and the Golden Fleese",
+  "description": "Discover reviews, ratings, and trailers for Fury of the Fist and the Golden Fleese on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Sean Stone"
+    },
+    {
+      "name": "Michael Dudikoff"
+    },
+    {
+      "name": "Alexander Wraith"
+    },
+    {
+      "name": "Don Frye"
+    }
+  ],
+  "director": "Alexander Wraith",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152920"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248d"
+  },
+  "title": "The Christmas Pledge",
+  "description": "Discover reviews, ratings, and trailers for The Christmas Pledge on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Holiday",
+    "Romance",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Isabelle Almoyan"
+    },
+    {
+      "name": "David Michael Reardon"
+    },
+    {
+      "name": "Wes Deitrick"
+    },
+    {
+      "name": "Ron Ford"
+    },
+    {
+      "name": "Kathie Doyle-Lipe"
+    }
+  ],
+  "director": "James R. Temple",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152974"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248e"
+  },
+  "title": "The Little Hut",
+  "description": "Discover reviews, ratings, and trailers for The Little Hut on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Ava Gardner"
+    },
+    {
+      "name": "Stewart Granger"
+    },
+    {
+      "name": "David Niven"
+    },
+    {
+      "name": "Walter Chiari"
+    },
+    {
+      "name": "Finlay Currie"
+    }
+  ],
+  "director": "Mark Robson",
+  "rating": {
+    "average": 31,
+    "review_count": 8,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152979"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2490"
+  },
+  "title": "Flight",
+  "description": "Discover reviews, ratings, and trailers for Flight on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Rohiem Phillips"
+    }
+  ],
+  "director": "Kia Moses",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152988"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2491"
+  },
+  "title": "Crespo",
+  "description": "Discover reviews, ratings, and trailers for Crespo on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Emma Stone",
+    "Chris Hemsworth"
+  ],
+  "director": "Eduardo Crespo",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152993"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2493"
+  },
+  "title": "Suspension Points",
+  "description": "Discover reviews, ratings, and trailers for Suspension Points on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Cleo Pires"
+    },
+    {
+      "name": "Igor Angelkorte"
+    },
+    {
+      "name": "Juliana Didone"
+    },
+    {
+      "name": "Pablo Sanábio"
+    },
+    {
+      "name": "Klebber Toledo"
+    }
+  ],
+  "director": "Marcos Bernstein",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.153003"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2498"
+  },
+  "title": "Kill City Cup",
+  "description": "Discover reviews, ratings, and trailers for Kill City Cup on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Action"
+  ],
+  "cast": [
+    {
+      "name": "Thomas Brower"
+    },
+    {
+      "name": "Cage"
+    }
+  ],
+  "director": "Luke Robert",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.153031"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a249b"
+  },
+  "title": "In Old Santa Fe",
+  "description": "Discover reviews, ratings, and trailers for In Old Santa Fe on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1934,
+  "genres": [
+    "Western"
+  ],
+  "cast": [
+    {
+      "name": "Ken Maynard"
+    },
+    {
+      "name": "Evalyn Knapp"
+    },
+    {
+      "name": "H.B. Warner"
+    },
+    {
+      "name": "Ken Thompson"
+    },
+    {
+      "name": "Wheeler Oakman"
+    }
+  ],
+  "director": "David Howard",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.153049"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2441"
+  },
+  "title": "The Drive to Sing",
+  "description": "Discover reviews, ratings, and trailers for The Drive to Sing on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "cast": [
+    "Dwayne Johnson",
+    "Jennifer Lawrence"
+  ],
+  "director": "Bryce Denney",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152520"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2446"
+  },
+  "title": "Kimi",
+  "description": "Discover reviews, ratings, and trailers for Kimi on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Zoë Kravitz"
+    },
+    {
+      "name": "Byron Bowers"
+    },
+    {
+      "name": "Rita Wilson"
+    },
+    {
+      "name": "Robin Givens"
+    },
+    {
+      "name": "India de Beaufort"
+    }
+  ],
+  "director": "Steven Soderbergh",
+  "rating": {
+    "average": 92,
+    "review_count": 130,
+    "ratings_count": 130
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152559"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244c"
+  },
+  "title": "Make Me Scream",
+  "description": "Hosted by horror fanatics and life-partners Tempestt Bledsoe (The Cosby Show) and Darryl M. Bell (A Different World), this hilariously horrifying Halloween special features three celebrity teams--led by Jaleel White (Family Matters), Shoniqua Shandai (Harlem), and rapper Lil Xan--that embark on a game where they must face a series of bone-chilling scare zones while trying NOT to scream, in order to survive the night and take home the prestigious Medal of Mayhem.",
+  "release_year": 1933,
+  "genres": [
+    "Game Show",
+    "Holiday"
+  ],
+  "cast": [
+    "Robert Downey Jr.",
+    "Margot Robbie"
+  ],
+  "director": "Smith Carlo",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152596"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244e"
+  },
+  "title": "La Terra Habitada",
+  "description": "Discover reviews, ratings, and trailers for La Terra Habitada on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Animation",
+    "Crime"
+  ],
+  "cast": [
+    "Will Smith",
+    "Angelina Jolie"
+  ],
+  "director": "Michael Smith",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152606"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2452"
+  },
+  "title": "Memories",
+  "description": "Discover reviews, ratings, and trailers for Memories on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Fantasy",
+    "Anime"
+  ],
+  "cast": [
+    "Keanu Reeves",
+    "Charlize Theron"
+  ],
+  "director": "Kouji Morimoto",
+  "rating": {
+    "average": 82,
+    "review_count": 303,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152629"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2456"
+  },
+  "title": "Battered",
+  "description": "Discover reviews, ratings, and trailers for Battered on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2014,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Charles Porter"
+    },
+    {
+      "name": "Katie Lowry Brown"
+    },
+    {
+      "name": "Bradley Fowler"
+    },
+    {
+      "name": "Sam Sarpong"
+    },
+    {
+      "name": "Ray Stoney"
+    }
+  ],
+  "director": "Robert Madero",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152654"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2458"
+  },
+  "title": "Battle for Afghanistan",
+  "description": "1989. The end of the Soviet-Afghan war. The USSR begins to withdraw its troops from Afghanistan. \n \nSoviet General Vasilyev’s son – a pilot named Alexander - is kidnapped by the Mujahideen after his airplane crashes. As a result, the 108th Motor Rifle Division’s long awaited return home is put on hold for one last mission: bring the General’s son back. \n \nBased on true events, the previously untold story of this tragic withdrawal reveals the complexity of human nature during wartime. ",
+  "release_year": 1933,
+  "genres": [
+    "Action",
+    "War"
+  ],
+  "cast": [
+    "Will Smith",
+    "Angelina Jolie"
+  ],
+  "director": "Kame William",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152664"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245f"
+  },
+  "title": "The Yellow Ticket (1918)",
+  "description": "Discover reviews, ratings, and trailers for The Yellow Ticket (1918) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Pola Negri"
+    },
+    {
+      "name": "Harry Liedtke"
+    },
+    {
+      "name": "Victor Janson"
+    }
+  ],
+  "director": "Eugen Illés",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152703"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2461"
+  },
+  "title": "Fate Jealous Greed",
+  "description": "Discover reviews, ratings, and trailers for Fate Jealous Greed on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Don Li"
+    },
+    {
+      "name": "Shirley Yeung"
+    },
+    {
+      "name": "King-Kei Cheng"
+    }
+  ],
+  "director": "Rose Taylor",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152713"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2468"
+  },
+  "title": "Einstein",
+  "description": "Discover reviews, ratings, and trailers for Einstein on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Animation",
+    "Crime"
+  ],
+  "cast": [
+    "Ryan Gosling",
+    "Gal Gadot",
+    "Dwayne Johnson"
+  ],
+  "director": "Rector John",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152754"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2469"
+  },
+  "title": "Dora Saves the Crystal Kingdom",
+  "description": "Discover reviews, ratings, and trailers for Dora Saves the Crystal Kingdom on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Adventure"
+  ],
+  "cast": [
+    "Zendaya",
+    "Emma Stone",
+    "Chris Hemsworth"
+  ],
+  "director": "Katie McWane",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152759"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2471"
+  },
+  "title": "Shefeekkinte Santhosham",
+  "description": "Discover reviews, ratings, and trailers for Shefeekkinte Santhosham on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Unni Mukundan"
+    },
+    {
+      "name": "Athmeeya Rajan"
+    },
+    {
+      "name": "Divya Pillai"
+    },
+    {
+      "name": "Sminu Sijo"
+    },
+    {
+      "name": "Geethi Sangeetha"
+    }
+  ],
+  "director": "Anup Pandalam",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152805"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "title": "Penguins",
+  "description": "Discover reviews, ratings, and trailers for Penguins on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2019,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Hugh Jackman",
+    "Emma Watson"
+  ],
+  "director": "Jeff Wilson",
+  "rating": {
+    "average": 92,
+    "review_count": 65,
+    "ratings_count": 65
+  },
+  "popularity": 5,
+  "created_at": "2025-10-17T14:04:59.152844"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2479"
+  },
+  "title": "Confessionsofa Ex-Doofus-ItchyFooted Mutha",
+  "description": "Discover reviews, ratings, and trailers for Confessionsofa Ex-Doofus-ItchyFooted Mutha on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2009,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Melvin Van Peebles"
+    },
+    {
+      "name": "Stephanie Weeks"
+    },
+    {
+      "name": "Mario Van Peebles"
+    },
+    {
+      "name": "Glen Turner"
+    },
+    {
+      "name": "Teddy Hayes"
+    }
+  ],
+  "director": "Melvin Van Peebles",
+  "rating": {
+    "average": 27,
+    "review_count": 11,
+    "ratings_count": 11
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152851"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247e"
+  },
+  "title": "King of the Sands",
+  "description": "Discover reviews, ratings, and trailers for King of the Sands on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama",
+    "Biography",
+    "History"
+  ],
+  "cast": [
+    {
+      "name": "Fabio Testi"
+    },
+    {
+      "name": "Bill Fellows"
+    },
+    {
+      "name": "Marco Foschi"
+    }
+  ],
+  "director": "Najdat Anzour",
+  "rating": {
+    "average": 90,
+    "review_count": 1,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152875"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2484"
+  },
+  "title": "Ikonophile Z",
+  "description": "Discover reviews, ratings, and trailers for Ikonophile Z on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "T. Ryder Smith"
+    },
+    {
+      "name": "Mitzi Akaha"
+    },
+    {
+      "name": "Betsy Aidem"
+    },
+    {
+      "name": "Eric Moreland"
+    }
+  ],
+  "director": "Richard Ledes",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152909"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2489"
+  },
+  "title": "Ika-11 Utos: Mahalin Mo, Asawa Mo",
+  "description": "Discover reviews, ratings, and trailers for Ika-11 Utos: Mahalin Mo, Asawa Mo on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Aiko Melendez"
+    },
+    {
+      "name": "Zsa Zsa Padilla"
+    },
+    {
+      "name": "Maricel Laxa"
+    },
+    {
+      "name": "Gabby Concepcion"
+    },
+    {
+      "name": "Edu Manzano"
+    }
+  ],
+  "director": "Marilou Diaz-Abaya",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152946"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248f"
+  },
+  "title": "Ivan the Terrible, Part One",
+  "description": "Discover reviews, ratings, and trailers for Ivan the Terrible, Part One on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1945,
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Nikolay Cherkasov"
+    },
+    {
+      "name": "Lyudmila Tselikovskaya"
+    },
+    {
+      "name": "Serafina Birman"
+    },
+    {
+      "name": "Pavel Kadochnikov"
+    },
+    {
+      "name": "Mikhail Zharov"
+    }
+  ],
+  "director": "Sergei M. Eisenstein",
+  "rating": {
+    "average": 100,
+    "review_count": 17,
+    "ratings_count": 17
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152984"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2492"
+  },
+  "title": "Goodnight Mommy (2022)",
+  "description": "Discover reviews, ratings, and trailers for Goodnight Mommy (2022) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2022,
+  "genres": [
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Naomi Watts"
+    },
+    {
+      "name": "Cameron Crovetti"
+    },
+    {
+      "name": "Nicholas Crovetti"
+    },
+    {
+      "name": "Peter Hermann"
+    },
+    {
+      "name": "Crystal Lucas-Perry"
+    }
+  ],
+  "director": "Matt Sobel",
+  "rating": {
+    "average": 36,
+    "review_count": 69,
+    "ratings_count": 69
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152998"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2495"
+  },
+  "title": "The Roof of Africa",
+  "description": "Discover reviews, ratings, and trailers for The Roof of Africa on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Chris Pratt",
+    "Margot Robbie"
+  ],
+  "director": "Jeff Pakosta",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.153015"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2497"
+  },
+  "title": "Home of the Brave",
+  "description": "Discover reviews, ratings, and trailers for Home of the Brave on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Ryan Reynolds",
+    "Gal Gadot"
+  ],
+  "director": "Paola di Florio",
+  "rating": {
+    "average": 94,
+    "review_count": 16,
+    "ratings_count": 16
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.153025"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a249a"
+  },
+  "title": "Ordinary Happiness",
+  "description": "Discover reviews, ratings, and trailers for Ordinary Happiness on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "cast": [
+    {
+      "name": "Pif"
+    },
+    {
+      "name": "Thony"
+    },
+    {
+      "name": "Franz Cantalupo"
+    },
+    {
+      "name": "Vincenzo Ferrera"
+    },
+    {
+      "name": "Angelica Alleruzzo"
+    }
+  ],
+  "director": "Daniele Luchetti",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.153042"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a243e"
+  },
+  "title": "Quatermass and the Pit (Five Million Years to Earth)(The Mind Benders)",
+  "description": "Discover reviews, ratings, and trailers for Quatermass and the Pit (Five Million Years to Earth)(The Mind Benders) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Western",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Andrew Keir"
+    },
+    {
+      "name": "James Donald"
+    },
+    {
+      "name": "Barbara Shelley"
+    },
+    {
+      "name": "Julian Glover"
+    }
+  ],
+  "director": "Roy Ward Baker",
+  "rating": {
+    "average": 88,
+    "review_count": 16,
+    "ratings_count": 16
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152462"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2442"
+  },
+  "title": "Mosul",
+  "description": "Discover reviews, ratings, and trailers for Mosul on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2020,
+  "genres": [
+    "Mystery & Thriller",
+    "Drama",
+    "War"
+  ],
+  "cast": [
+    {
+      "name": "Thaer Al-Shayei"
+    },
+    {
+      "name": "Mohamed Attougui"
+    },
+    {
+      "name": "Ben Affan"
+    },
+    {
+      "name": "Hayat Kamille"
+    },
+    {
+      "name": "Qutaiba Abdelhaq"
+    }
+  ],
+  "director": "Matthew Michael Carnahan",
+  "rating": {
+    "average": 83,
+    "review_count": 30,
+    "ratings_count": 30
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152533"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2448"
+  },
+  "title": "The Ghost and the Darkness",
+  "description": "Discover reviews, ratings, and trailers for The Ghost and the Darkness on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1996,
+  "genres": [
+    "Adventure"
+  ],
+  "cast": [
+    {
+      "name": "Michael Douglas"
+    },
+    {
+      "name": "Val Kilmer"
+    },
+    {
+      "name": "Tom Wilkinson"
+    },
+    {
+      "name": "John Kani"
+    },
+    {
+      "name": "Bernard Hill"
+    }
+  ],
+  "director": "Stephen Hopkins",
+  "rating": {
+    "average": 51,
+    "review_count": 53,
+    "ratings_count": 53
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152571"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "title": "Nianchan",
+  "description": "Discover reviews, ratings, and trailers for Nianchan on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Akiko Maeda"
+    },
+    {
+      "name": "Takeshi Okimura"
+    },
+    {
+      "name": "Kayo Matsuo"
+    },
+    {
+      "name": "Hiroyuki Nagato"
+    },
+    {
+      "name": "Tanie Kitabayshi"
+    }
+  ],
+  "director": "Shôhei Imamura",
+  "rating": {
+    "average": 44,
+    "review_count": 2,
+    "ratings_count": 49.33
+  },
+  "popularity": 5,
+  "created_at": "2025-10-17T14:04:59.152576"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a244d"
+  },
+  "title": "Legend of the Phantom Rider",
+  "description": "Discover reviews, ratings, and trailers for Legend of the Phantom Rider on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Western",
+    "Fantasy",
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Denise Crosby"
+    },
+    {
+      "name": "Robert McRay"
+    },
+    {
+      "name": "Angus Scrimm"
+    },
+    {
+      "name": "Al Fleming"
+    },
+    {
+      "name": "Stefan Gierasch"
+    }
+  ],
+  "director": "Alex Erkiletian",
+  "rating": {
+    "average": 50,
+    "review_count": 1,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152602"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2450"
+  },
+  "title": "The Patriots (1994)",
+  "description": "Discover reviews, ratings, and trailers for The Patriots (1994) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Adventure"
+  ],
+  "cast": [
+    {
+      "name": "Yvan Attal"
+    },
+    {
+      "name": "Sandrine Kiberlain"
+    },
+    {
+      "name": "Allen Garfield"
+    },
+    {
+      "name": "Nancy Allen"
+    }
+  ],
+  "director": "Eric Rochant",
+  "rating": {
+    "average": 74,
+    "review_count": 9,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152619"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2454"
+  },
+  "title": "Four Windows",
+  "description": "Discover reviews, ratings, and trailers for Four Windows on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Margarita Broich"
+    },
+    {
+      "name": "Thorsten Merten"
+    },
+    {
+      "name": "Theresa Scholze"
+    },
+    {
+      "name": "Frank Droese"
+    },
+    {
+      "name": "Stephan Lewetz"
+    }
+  ],
+  "director": "Christian Moris Müller",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152642"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2459"
+  },
+  "title": "Follow your heart (2006)",
+  "description": "Discover reviews, ratings, and trailers for Follow your heart (2006) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Christine Neubauer"
+    },
+    {
+      "name": "Francis Fulton-Smith"
+    },
+    {
+      "name": "Timothy Peach"
+    },
+    {
+      "name": "Pascal Andres"
+    },
+    {
+      "name": "Ronja Forcher"
+    }
+  ],
+  "director": "Peter Sämann",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152670"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245b"
+  },
+  "title": "Nom el-Talat",
+  "description": "Discover reviews, ratings, and trailers for Nom el-Talat on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Hani Ramzi"
+    },
+    {
+      "name": "Eman El-Assy"
+    },
+    {
+      "name": "Hasan Husni"
+    },
+    {
+      "name": "Samer El-Minyawi"
+    }
+  ],
+  "director": "Ali Kahn",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152681"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245c"
+  },
+  "title": "The Second Track",
+  "description": "Discover reviews, ratings, and trailers for The Second Track on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Animation",
+    "War"
+  ],
+  "cast": [
+    {
+      "name": "Annekathrin Buerger"
+    },
+    {
+      "name": "Horst Jonischkan"
+    },
+    {
+      "name": "Albert Hetterle"
+    },
+    {
+      "name": "Walter Richter-Reinick"
+    }
+  ],
+  "director": "Joachim Kunert",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152686"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245d"
+  },
+  "title": "Robbery Girl",
+  "description": "Discover reviews, ratings, and trailers for Robbery Girl on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Sakura Aomanaka"
+    },
+    {
+      "name": "Dai Igarashi"
+    },
+    {
+      "name": "Asakusa Mizokoshi"
+    }
+  ],
+  "director": "Kousuke Hishinuma",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152691"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2463"
+  },
+  "title": "Dirty Third 2: Home Sweet Home",
+  "description": "Discover reviews, ratings, and trailers for Dirty Third 2: Home Sweet Home on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Biography"
+  ],
+  "cast": [
+    {
+      "name": "Derrick Dixon"
+    },
+    {
+      "name": "Darryl Monroe"
+    }
+  ],
+  "director": "Derrick Dixon",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152724"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2464"
+  },
+  "title": "The Gold Rush",
+  "description": "In this classic silent comedy, the Little Tramp (Charles Chaplin) heads north to join in the Klondike gold rush. Trapped in a small cabin by a blizzard, the Tramp is forced to share close quarters with a successful prospector (Mack Swain) and a fugitive (Tom Murray). Eventually able to leave the cabin, he falls for a lovely barmaid (Georgia Hale), trying valiantly to win her affections. When the prospector needs help locating his claim, it appears the Tramp's fortunes may change.",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Adventure"
+  ],
+  "cast": [
+    "Tom Holland",
+    "Natalie Dormer"
+  ],
+  "director": "Zampa to",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152731"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2465"
+  },
+  "title": "Chicago Syndicate",
+  "description": "Discover reviews, ratings, and trailers for Chicago Syndicate on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Dennis O'Keefe"
+    },
+    {
+      "name": "Abbe Lane"
+    },
+    {
+      "name": "Paul Stewart"
+    }
+  ],
+  "director": "Fred F. Sears",
+  "rating": {
+    "average": 29,
+    "review_count": 3,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152738"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2466"
+  },
+  "title": "Back at the Staircase",
+  "description": "Discover reviews, ratings, and trailers for Back at the Staircase on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2018,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Leonora Pitts"
+    },
+    {
+      "name": "Jennifer Lafleur"
+    },
+    {
+      "name": "Mickey O'Hagan"
+    },
+    {
+      "name": "Stephen Plunkett"
+    },
+    {
+      "name": "Heather LaVine"
+    }
+  ],
+  "director": "Drew Britton",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 4,
+  "created_at": "2025-10-17T14:04:59.152743"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2470"
+  },
+  "title": "Sinful",
+  "description": "Discover reviews, ratings, and trailers for Sinful on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Shakeela Koffey Scott"
+    },
+    {
+      "name": "Patrice Jennings"
+    },
+    {
+      "name": "Nikki Natural"
+    },
+    {
+      "name": "Kasia Hart"
+    },
+    {
+      "name": "Reggie Broughton"
+    }
+  ],
+  "director": "Felicia Rivers",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152798"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2476"
+  },
+  "title": "Thiru",
+  "description": "Discover reviews, ratings, and trailers for Thiru on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Dhanush"
+    },
+    {
+      "name": "Nithya Menon"
+    },
+    {
+      "name": "Prakash Raj"
+    },
+    {
+      "name": "Raashii Khanna"
+    },
+    {
+      "name": "Bharathi Rajaa"
+    }
+  ],
+  "director": "Mithran Jawahar",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152832"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2481"
+  },
+  "title": "Land of Milk and Honey",
+  "description": "Discover reviews, ratings, and trailers for Land of Milk and Honey on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Richard Panebianco"
+    },
+    {
+      "name": "Lumi Cavazos"
+    },
+    {
+      "name": "Roxana Zal"
+    },
+    {
+      "name": "Stuart Whitman"
+    },
+    {
+      "name": "Pepe Serna"
+    }
+  ],
+  "director": "Joseph Destein",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152892"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2482"
+  },
+  "title": "CCTV (2021)",
+  "description": "Discover reviews, ratings, and trailers for CCTV (2021) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Mystery & Thriller",
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Kwak Do-won"
+    },
+    {
+      "name": "Kim Dan-mi"
+    },
+    {
+      "name": "Park Kee-ryung"
+    },
+    {
+      "name": "Kwak Ji-suk"
+    },
+    {
+      "name": "Won Chun-kyu"
+    }
+  ],
+  "director": "Kim Hong-ik",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152899"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2485"
+  },
+  "title": "Blind Truth",
+  "description": "Discover reviews, ratings, and trailers for Blind Truth on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama",
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Ethan Anderson"
+    },
+    {
+      "name": "Dave Arras"
+    },
+    {
+      "name": "Michael Bail"
+    },
+    {
+      "name": "Tristan Bail"
+    }
+  ],
+  "director": "Adrianna Buckner",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152913"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248a"
+  },
+  "title": "Mechanic: Resurrection",
+  "description": "Discover reviews, ratings, and trailers for Mechanic: Resurrection on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2016,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Jason Statham"
+    },
+    {
+      "name": "Jessica Alba"
+    },
+    {
+      "name": "Tommy Lee Jones"
+    },
+    {
+      "name": "Michelle Yeoh"
+    },
+    {
+      "name": "Sam Hazeldine"
+    }
+  ],
+  "director": "Dennis Gansel",
+  "rating": {
+    "average": 31,
+    "review_count": 58,
+    "ratings_count": 58
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152952"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248b"
+  },
+  "title": "Japanese Hell",
+  "description": "Discover reviews, ratings, and trailers for Japanese Hell on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Horror"
+  ],
+  "cast": [
+    {
+      "name": "Mutsumi Fujita"
+    },
+    {
+      "name": "Hisayoshi Hirayama"
+    },
+    {
+      "name": "Miki Satô"
+    },
+    {
+      "name": "Yôko Satomi"
+    },
+    {
+      "name": "Chiho Yoshida"
+    }
+  ],
+  "director": "Teruo Ishii",
+  "rating": {
+    "average": 31,
+    "review_count": 20,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152962"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a243f"
+  },
+  "title": "The Brutal River (2005)",
+  "description": "Discover reviews, ratings, and trailers for The Brutal River (2005) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama",
+    "Holiday"
+  ],
+  "cast": [
+    {
+      "name": "Chartchai Ngamsan"
+    }
+  ],
+  "director": "Anat Yuangngern",
+  "rating": {
+    "average": 69,
+    "review_count": 5,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152492"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2453"
+  },
+  "title": "The Spy Behind Home Plate",
+  "description": "Morris Moe Berg was an enigmatic and brilliant Jewish baseball player turned spy. Berg caught and fielded in the major leagues during baseball's Golden Age in the 1920s and 1930s, but very few people know that Berg also worked for the Office of Strategic Services (OSS), spying in Europe and playing a prominent role in America's efforts to undermine the German atomic bomb program during WWII.",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Keira Knightley",
+    "Michael B. Jordan"
+  ],
+  "director": "Brett Cor",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152634"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245a"
+  },
+  "title": "Tomboy (2020)",
+  "description": "Discover reviews, ratings, and trailers for Tomboy (2020) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Anne Hathaway",
+    "Matt Damon"
+  ],
+  "director": "Lindsay Lindenbaum",
+  "rating": {
+    "average": 71,
+    "review_count": 7,
+    "ratings_count": 7
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152674"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a245e"
+  },
+  "title": "Junior (2023)",
+  "description": "Discover reviews, ratings, and trailers for Junior (2023) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2023,
+  "genres": [
+    "Action",
+    "Mystery & Thriller",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Amiek Virk"
+    },
+    {
+      "name": "Srishti Jain"
+    },
+    {
+      "name": "Kabir Bedi"
+    },
+    {
+      "name": "Yograj Singh"
+    },
+    {
+      "name": "Pradeep Rawat"
+    }
+  ],
+  "director": "Harman Dhillon",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152698"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2460"
+  },
+  "title": "Rajakumaaran",
+  "description": "Discover reviews, ratings, and trailers for Rajakumaaran on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama",
+    "Action",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Prabhu"
+    },
+    {
+      "name": "Meena"
+    },
+    {
+      "name": "Nadhiya"
+    },
+    {
+      "name": "Nassar"
+    },
+    {
+      "name": "Vijayakumar"
+    }
+  ],
+  "director": "R.V. Udhaya Kumar",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152708"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246a"
+  },
+  "title": "School Meals Time Graduation",
+  "description": "Discover reviews, ratings, and trailers for School Meals Time Graduation on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Hayato Ichihara"
+    },
+    {
+      "name": "Kaho Tsuchimura"
+    },
+    {
+      "name": "Taishi Sato"
+    },
+    {
+      "name": "Yuhi"
+    },
+    {
+      "name": "Rena Yamasaki"
+    }
+  ],
+  "director": "Shin'ya Ayabe",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152765"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246b"
+  },
+  "title": "Skin Deep (2015)",
+  "description": "Discover reviews, ratings, and trailers for Skin Deep (2015) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Zara Zoe"
+    },
+    {
+      "name": "Monica Zanetti"
+    },
+    {
+      "name": "Elizabeth Blackmore"
+    },
+    {
+      "name": "Jeanie Drynan"
+    },
+    {
+      "name": "James Mackay"
+    }
+  ],
+  "director": "Jonnie Leahy",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152770"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a246d"
+  },
+  "title": "VH1 Divas Live 1998 (1998)",
+  "description": "Discover reviews, ratings, and trailers for VH1 Divas Live 1998 (1998) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "cast": [
+    "Jessica Chastain",
+    "Robert Pattinson"
+  ],
+  "director": "Michael A. Simon",
+  "rating": {
+    "average": 71,
+    "review_count": 1,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152780"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2473"
+  },
+  "title": "Prayers for the Stolen",
+  "description": "Discover reviews, ratings, and trailers for Prayers for the Stolen on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2021,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Alejandra Camacho"
+    },
+    {
+      "name": "Mayra Batalla"
+    },
+    {
+      "name": "Norma Pablo"
+    },
+    {
+      "name": "David Illescas"
+    },
+    {
+      "name": "Memo Villegas"
+    }
+  ],
+  "director": "Tatiana Huezo",
+  "rating": {
+    "average": 96,
+    "review_count": 55,
+    "ratings_count": 55
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152815"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2474"
+  },
+  "title": "Coming of Age in Cherry Grove: The Invasion",
+  "description": "Discover reviews, ratings, and trailers for Coming of Age in Cherry Grove: The Invasion on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Sandra Bullock",
+    "Chris Pine"
+  ],
+  "director": "James Belzer",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152820"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247a"
+  },
+  "title": "Inside Man: Most Wanted",
+  "description": "Discover reviews, ratings, and trailers for Inside Man: Most Wanted on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Action",
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Aml Ameen"
+    },
+    {
+      "name": "Rhea Seehorn"
+    },
+    {
+      "name": "Roxanne McKee"
+    },
+    {
+      "name": "Jessica Sutton"
+    },
+    {
+      "name": "Greg Kriek"
+    }
+  ],
+  "director": "MJ Bassett",
+  "rating": {
+    "average": 64,
+    "review_count": 37,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152856"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247b"
+  },
+  "title": "Cartoon Classics - Vol. 1: 25 Favorite Cartoons - 3 Hours",
+  "description": "Discover reviews, ratings, and trailers for Cartoon Classics - Vol. 1: 25 Favorite Cartoons - 3 Hours on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Animation"
+  ],
+  "cast": [
+    {
+      "name": "Bugs Bunny"
+    },
+    {
+      "name": "Daffy Duck"
+    },
+    {
+      "name": "Porky Pig"
+    },
+    {
+      "name": "Little Lulu"
+    }
+  ],
+  "director": "Max Fleischer",
+  "rating": {
+    "average": 100,
+    "review_count": 1,
+    "ratings_count": 49.33
+  },
+  "popularity": 1,
+  "created_at": "2025-10-17T14:04:59.152861"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247c"
+  },
+  "title": "Chaplains Under Fire",
+  "description": "Discover reviews, ratings, and trailers for Chaplains Under Fire on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Documentary"
+  ],
+  "cast": [
+    "Blake Lively",
+    "Daniel Radcliffe"
+  ],
+  "director": "Lee A. Lawrence",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152866"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a247d"
+  },
+  "title": "Incompatible",
+  "description": "Discover reviews, ratings, and trailers for Incompatible on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    "Jennifer Aniston",
+    "Idris Elba"
+  ],
+  "director": "John Kelly",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.152870"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2487"
+  },
+  "title": "Music Night: LIVE from Nashville!",
+  "description": "Discover reviews, ratings, and trailers for Music Night: LIVE from Nashville! on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 2025,
+  "genres": [
+    "Music"
+  ],
+  "cast": [
+    "Margot Robbie",
+    "Ryan Reynolds",
+    "Gal Gadot"
+  ],
+  "director": "Chris lyn",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152924"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2488"
+  },
+  "title": "Maria Candelaria",
+  "description": "Discover reviews, ratings, and trailers for Maria Candelaria on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Drama"
+  ],
+  "cast": [
+    {
+      "name": "Dolores del Río"
+    },
+    {
+      "name": "Pedro Armendáriz"
+    },
+    {
+      "name": "Alberto Galán"
+    }
+  ],
+  "director": "Emilio Fernández",
+  "rating": {
+    "average": 92,
+    "review_count": 13,
+    "ratings_count": 13
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.152929"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a248c"
+  },
+  "title": "Franklin and the Green Knight",
+  "description": "Discover reviews, ratings, and trailers for Franklin and the Green Knight on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Kids & Family",
+    "Adventure",
+    "Animation"
+  ],
+  "cast": [
+    "Michael B. Jordan",
+    "Anne Hathaway",
+    "Matt Damon"
+  ],
+  "director": "Hazlewood",
+  "rating": {
+    "average": 62,
+    "review_count": 4,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.152967"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2494"
+  },
+  "title": "Mania (2018)",
+  "description": "Discover reviews, ratings, and trailers for Mania (2018) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Mystery & Thriller"
+  ],
+  "cast": [
+    {
+      "name": "Katy-May Hudson"
+    },
+    {
+      "name": "Anthony Misiano"
+    },
+    {
+      "name": "Kyle Schaefer"
+    },
+    {
+      "name": "Lucy Shahjahan"
+    }
+  ],
+  "director": "Ryan Kelly",
+  "rating": {
+    "average": 70,
+    "review_count": null,
+    "ratings_count": 49.33
+  },
+  "popularity": 0,
+  "created_at": "2025-10-17T14:04:59.153011"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2496"
+  },
+  "title": "Samoan Wedding",
+  "description": "Discover reviews, ratings, and trailers for Samoan Wedding on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "cast": [
+    {
+      "name": "Oscar Kightley"
+    },
+    {
+      "name": "Iaheto Ah Hi"
+    },
+    {
+      "name": "Shimpal Lelisi"
+    },
+    {
+      "name": "Robbie Magasiva"
+    },
+    {
+      "name": "Teuila Blakely"
+    }
+  ],
+  "director": "Chris Graham",
+  "rating": {
+    "average": 83,
+    "review_count": 6,
+    "ratings_count": 6
+  },
+  "popularity": 2,
+  "created_at": "2025-10-17T14:04:59.153020"
+},
+{
+  "_id": {
+    "$oid": "68f25b136fb4862d984a2499"
+  },
+  "title": "Kirik Party",
+  "description": "Discover reviews, ratings, and trailers for Kirik Party on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+  "release_year": 1933,
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "name": "Rakshit Shetty"
+    },
+    {
+      "name": "Rashmika Mandanna"
+    },
+    {
+      "name": "Samyuktha Hegde"
+    },
+    {
+      "name": "Achyuth Kumar"
+    },
+    {
+      "name": "Raghu Pandeshwar"
+    }
+  ],
+  "director": "Rishab Shetty",
+  "rating": {
+    "average": 95,
+    "review_count": 1,
+    "ratings_count": 49.33
+  },
+  "popularity": 3,
+  "created_at": "2025-10-17T14:04:59.153037"
+}]

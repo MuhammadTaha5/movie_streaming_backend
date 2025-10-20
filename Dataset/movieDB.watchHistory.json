@@ -1,0 +1,1890 @@
+[{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24b8"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244a"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T17:14:21.901Z"
+  },
+  "watch_duration": 6931
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ba"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245f"
+  },
+  "timestamp": {
+    "$date": "2025-10-13T15:14:21.901Z"
+  },
+  "watch_duration": 2407
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c1"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2474"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T22:14:21.901Z"
+  },
+  "watch_duration": 3175
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c2"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2473"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T05:14:21.901Z"
+  },
+  "watch_duration": 3096
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c9"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2466"
+  },
+  "timestamp": {
+    "$date": "2025-10-06T16:14:21.901Z"
+  },
+  "watch_duration": 4941
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24cb"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245d"
+  },
+  "timestamp": {
+    "$date": "2025-10-16T06:14:21.901Z"
+  },
+  "watch_duration": 6208
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24cc"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2467"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T23:14:21.901Z"
+  },
+  "watch_duration": 2344
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24cd"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2474"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T04:14:21.901Z"
+  },
+  "watch_duration": 3484
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d3"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246b"
+  },
+  "timestamp": {
+    "$date": "2025-09-16T18:14:21.901Z"
+  },
+  "watch_duration": 2580
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d4"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244f"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T11:14:21.901Z"
+  },
+  "watch_duration": 8785
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24db"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2484"
+  },
+  "timestamp": {
+    "$date": "2025-10-06T21:14:21.901Z"
+  },
+  "watch_duration": 4075
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e2"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244c"
+  },
+  "timestamp": {
+    "$date": "2025-10-03T20:14:21.901Z"
+  },
+  "watch_duration": 1844
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e6"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2440"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T11:14:21.901Z"
+  },
+  "watch_duration": 4813
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e7"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2456"
+  },
+  "timestamp": {
+    "$date": "2025-10-01T10:14:21.901Z"
+  },
+  "watch_duration": 8832
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e8"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2483"
+  },
+  "timestamp": {
+    "$date": "2025-10-08T21:14:21.901Z"
+  },
+  "watch_duration": 5660
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ec"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T14:14:21.901Z"
+  },
+  "watch_duration": 8638
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ed"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2447"
+  },
+  "timestamp": {
+    "$date": "2025-10-12T15:14:21.901Z"
+  },
+  "watch_duration": 8917
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ef"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247f"
+  },
+  "timestamp": {
+    "$date": "2025-10-04T18:14:21.901Z"
+  },
+  "watch_duration": 7510
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f0"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2463"
+  },
+  "timestamp": {
+    "$date": "2025-09-21T07:14:21.901Z"
+  },
+  "watch_duration": 2528
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f2"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2455"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T03:14:21.901Z"
+  },
+  "watch_duration": 8634
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f4"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245d"
+  },
+  "timestamp": {
+    "$date": "2025-09-30T03:14:21.902Z"
+  },
+  "watch_duration": 2167
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f6"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2466"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T14:14:21.902Z"
+  },
+  "watch_duration": 6445
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f7"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2493"
+  },
+  "timestamp": {
+    "$date": "2025-09-18T09:14:21.902Z"
+  },
+  "watch_duration": 8917
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24fa"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2488"
+  },
+  "timestamp": {
+    "$date": "2025-10-07T15:14:21.902Z"
+  },
+  "watch_duration": 2200
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24fe"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2496"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T00:14:21.902Z"
+  },
+  "watch_duration": 3734
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2504"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2481"
+  },
+  "timestamp": {
+    "$date": "2025-10-10T09:14:21.902Z"
+  },
+  "watch_duration": 5199
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2507"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245a"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T00:14:21.902Z"
+  },
+  "watch_duration": 6271
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2466"
+  },
+  "timestamp": {
+    "$date": "2025-10-16T06:14:21.902Z"
+  },
+  "watch_duration": 7132
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2451"
+  },
+  "timestamp": {
+    "$date": "2025-09-27T12:14:21.902Z"
+  },
+  "watch_duration": 1936
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2455"
+  },
+  "timestamp": {
+    "$date": "2025-09-17T14:14:21.902Z"
+  },
+  "watch_duration": 8596
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2518"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2493"
+  },
+  "timestamp": {
+    "$date": "2025-10-11T02:14:21.902Z"
+  },
+  "watch_duration": 8276
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T18:14:21.902Z"
+  },
+  "watch_duration": 4573
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2520"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2447"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T22:14:21.902Z"
+  },
+  "watch_duration": 2695
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2525"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2476"
+  },
+  "timestamp": {
+    "$date": "2025-10-07T03:14:21.902Z"
+  },
+  "watch_duration": 1920
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2488"
+  },
+  "timestamp": {
+    "$date": "2025-10-02T03:14:21.902Z"
+  },
+  "watch_duration": 8461
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2495"
+  },
+  "timestamp": {
+    "$date": "2025-09-19T03:14:21.902Z"
+  },
+  "watch_duration": 3322
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "timestamp": {
+    "$date": "2025-10-04T00:14:21.902Z"
+  },
+  "watch_duration": 6064
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24b5"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2497"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T18:14:21.901Z"
+  },
+  "watch_duration": 7918
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24bf"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2475"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T10:14:21.901Z"
+  },
+  "watch_duration": 8745
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c4"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2482"
+  },
+  "timestamp": {
+    "$date": "2025-09-27T20:14:21.901Z"
+  },
+  "watch_duration": 4153
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c5"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2453"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T18:14:21.901Z"
+  },
+  "watch_duration": 5068
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c6"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245b"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T13:14:21.901Z"
+  },
+  "watch_duration": 4885
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c8"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2469"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T16:14:21.901Z"
+  },
+  "watch_duration": 1861
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d1"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2444"
+  },
+  "timestamp": {
+    "$date": "2025-10-01T14:14:21.901Z"
+  },
+  "watch_duration": 8142
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24dd"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247d"
+  },
+  "timestamp": {
+    "$date": "2025-09-18T10:14:21.901Z"
+  },
+  "watch_duration": 3021
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e4"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a243f"
+  },
+  "timestamp": {
+    "$date": "2025-09-18T21:14:21.901Z"
+  },
+  "watch_duration": 8576
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ea"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2490"
+  },
+  "timestamp": {
+    "$date": "2025-09-20T21:14:21.901Z"
+  },
+  "watch_duration": 5520
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24eb"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2481"
+  },
+  "timestamp": {
+    "$date": "2025-10-01T00:14:21.901Z"
+  },
+  "watch_duration": 3605
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f1"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248d"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T10:14:21.901Z"
+  },
+  "watch_duration": 7686
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f9"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2496"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T08:14:21.902Z"
+  },
+  "watch_duration": 6678
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2500"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244a"
+  },
+  "timestamp": {
+    "$date": "2025-09-30T17:14:21.902Z"
+  },
+  "watch_duration": 7239
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2501"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2475"
+  },
+  "timestamp": {
+    "$date": "2025-10-04T20:14:21.902Z"
+  },
+  "watch_duration": 3236
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2502"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2489"
+  },
+  "timestamp": {
+    "$date": "2025-09-30T22:14:21.902Z"
+  },
+  "watch_duration": 7474
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2503"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2467"
+  },
+  "timestamp": {
+    "$date": "2025-10-01T15:14:21.902Z"
+  },
+  "watch_duration": 4162
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2508"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2465"
+  },
+  "timestamp": {
+    "$date": "2025-09-17T21:14:21.902Z"
+  },
+  "watch_duration": 7527
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2510"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2481"
+  },
+  "timestamp": {
+    "$date": "2025-09-18T09:14:21.902Z"
+  },
+  "watch_duration": 7882
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2512"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "timestamp": {
+    "$date": "2025-09-23T09:14:21.902Z"
+  },
+  "watch_duration": 5026
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2513"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2479"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T21:14:21.902Z"
+  },
+  "watch_duration": 8372
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2514"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244c"
+  },
+  "timestamp": {
+    "$date": "2025-09-21T14:14:21.902Z"
+  },
+  "watch_duration": 2928
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2515"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2499"
+  },
+  "timestamp": {
+    "$date": "2025-10-14T04:14:21.902Z"
+  },
+  "watch_duration": 7060
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2516"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2477"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T19:14:21.902Z"
+  },
+  "watch_duration": 5964
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2464"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T07:14:21.902Z"
+  },
+  "watch_duration": 4059
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2473"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T07:14:21.902Z"
+  },
+  "watch_duration": 1829
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251e"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244d"
+  },
+  "timestamp": {
+    "$date": "2025-09-19T10:14:21.902Z"
+  },
+  "watch_duration": 8410
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251f"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2450"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T03:14:21.902Z"
+  },
+  "watch_duration": 4410
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2526"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a249a"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T06:14:21.902Z"
+  },
+  "watch_duration": 6554
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2527"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2440"
+  },
+  "timestamp": {
+    "$date": "2025-09-17T22:14:21.902Z"
+  },
+  "watch_duration": 6417
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2528"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245f"
+  },
+  "timestamp": {
+    "$date": "2025-10-02T21:14:21.902Z"
+  },
+  "watch_duration": 7069
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24b6"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a243e"
+  },
+  "timestamp": {
+    "$date": "2025-10-10T04:14:21.901Z"
+  },
+  "watch_duration": 8081
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24b7"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T13:14:21.901Z"
+  },
+  "watch_duration": 8471
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24be"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2444"
+  },
+  "timestamp": {
+    "$date": "2025-09-16T20:14:21.901Z"
+  },
+  "watch_duration": 1836
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c0"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a249a"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T02:14:21.901Z"
+  },
+  "watch_duration": 5926
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c3"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2441"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T04:14:21.901Z"
+  },
+  "watch_duration": 4855
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ca"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246d"
+  },
+  "timestamp": {
+    "$date": "2025-10-13T14:14:21.901Z"
+  },
+  "watch_duration": 7453
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24cf"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T13:14:21.901Z"
+  },
+  "watch_duration": 6860
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d0"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2440"
+  },
+  "timestamp": {
+    "$date": "2025-10-12T06:14:21.901Z"
+  },
+  "watch_duration": 7597
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d7"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2470"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T13:14:21.901Z"
+  },
+  "watch_duration": 3951
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24da"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2499"
+  },
+  "timestamp": {
+    "$date": "2025-09-21T02:14:21.901Z"
+  },
+  "watch_duration": 5893
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24dc"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248d"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T17:14:21.901Z"
+  },
+  "watch_duration": 8681
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24df"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245a"
+  },
+  "timestamp": {
+    "$date": "2025-09-27T03:14:21.901Z"
+  },
+  "watch_duration": 6578
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e1"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2445"
+  },
+  "timestamp": {
+    "$date": "2025-10-11T03:14:21.901Z"
+  },
+  "watch_duration": 7176
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e3"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2458"
+  },
+  "timestamp": {
+    "$date": "2025-09-30T23:14:21.901Z"
+  },
+  "watch_duration": 2210
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e9"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a8"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2465"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T00:14:21.901Z"
+  },
+  "watch_duration": 2885
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f5"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "timestamp": {
+    "$date": "2025-09-20T02:14:21.902Z"
+  },
+  "watch_duration": 2308
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f8"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24aa"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2440"
+  },
+  "timestamp": {
+    "$date": "2025-09-19T00:14:21.902Z"
+  },
+  "watch_duration": 3856
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24fc"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2492"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T20:14:21.902Z"
+  },
+  "watch_duration": 2974
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24fd"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2452"
+  },
+  "timestamp": {
+    "$date": "2025-09-25T22:14:21.902Z"
+  },
+  "watch_duration": 5325
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2506"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2445"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T09:14:21.902Z"
+  },
+  "watch_duration": 2330
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "timestamp": {
+    "$date": "2025-09-28T20:14:21.902Z"
+  },
+  "watch_duration": 8635
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250c"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2489"
+  },
+  "timestamp": {
+    "$date": "2025-09-21T07:14:21.902Z"
+  },
+  "watch_duration": 7976
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a250d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T06:14:21.902Z"
+  },
+  "watch_duration": 4802
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2511"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ae"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2447"
+  },
+  "timestamp": {
+    "$date": "2025-10-10T17:14:21.902Z"
+  },
+  "watch_duration": 8523
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2517"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2454"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T03:14:21.902Z"
+  },
+  "watch_duration": 2756
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2519"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24af"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247d"
+  },
+  "timestamp": {
+    "$date": "2025-09-30T00:14:21.902Z"
+  },
+  "watch_duration": 6224
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a251a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247b"
+  },
+  "timestamp": {
+    "$date": "2025-10-11T04:14:21.902Z"
+  },
+  "watch_duration": 5989
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2522"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a249b"
+  },
+  "timestamp": {
+    "$date": "2025-09-17T11:14:21.902Z"
+  },
+  "watch_duration": 8686
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2524"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2456"
+  },
+  "timestamp": {
+    "$date": "2025-10-11T07:14:21.902Z"
+  },
+  "watch_duration": 3083
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252a"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248a"
+  },
+  "timestamp": {
+    "$date": "2025-10-08T09:14:21.902Z"
+  },
+  "watch_duration": 7697
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2530"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246f"
+  },
+  "timestamp": {
+    "$date": "2025-10-02T14:14:21.902Z"
+  },
+  "watch_duration": 8209
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24b9"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245c"
+  },
+  "timestamp": {
+    "$date": "2025-10-07T11:14:21.901Z"
+  },
+  "watch_duration": 5239
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24bb"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a0"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T20:14:21.901Z"
+  },
+  "watch_duration": 8838
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24bc"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a247d"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T12:14:21.901Z"
+  },
+  "watch_duration": 5779
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24bd"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2493"
+  },
+  "timestamp": {
+    "$date": "2025-10-04T07:14:21.901Z"
+  },
+  "watch_duration": 5021
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24c7"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a246e"
+  },
+  "timestamp": {
+    "$date": "2025-10-02T16:14:21.901Z"
+  },
+  "watch_duration": 7398
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ce"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2466"
+  },
+  "timestamp": {
+    "$date": "2025-09-21T10:14:21.901Z"
+  },
+  "watch_duration": 4075
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d2"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a4"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a243f"
+  },
+  "timestamp": {
+    "$date": "2025-10-14T05:14:21.901Z"
+  },
+  "watch_duration": 6509
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d5"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2479"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T20:14:21.901Z"
+  },
+  "watch_duration": 6642
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d6"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2471"
+  },
+  "timestamp": {
+    "$date": "2025-10-12T19:14:21.901Z"
+  },
+  "watch_duration": 3037
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d8"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a249a"
+  },
+  "timestamp": {
+    "$date": "2025-10-15T05:14:21.901Z"
+  },
+  "watch_duration": 5417
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24d9"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a5"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a248b"
+  },
+  "timestamp": {
+    "$date": "2025-09-23T16:14:21.901Z"
+  },
+  "watch_duration": 6894
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24de"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a6"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2465"
+  },
+  "timestamp": {
+    "$date": "2025-10-06T07:14:21.901Z"
+  },
+  "watch_duration": 3531
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e0"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2491"
+  },
+  "timestamp": {
+    "$date": "2025-10-07T23:14:21.901Z"
+  },
+  "watch_duration": 7908
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24e5"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a7"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2492"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T11:14:21.901Z"
+  },
+  "watch_duration": 5905
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ee"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2485"
+  },
+  "timestamp": {
+    "$date": "2025-10-11T01:14:21.901Z"
+  },
+  "watch_duration": 5464
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24f3"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24a9"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2498"
+  },
+  "timestamp": {
+    "$date": "2025-09-24T23:14:21.902Z"
+  },
+  "watch_duration": 6577
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24fb"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ab"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2478"
+  },
+  "timestamp": {
+    "$date": "2025-10-09T19:14:21.902Z"
+  },
+  "watch_duration": 7393
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a24ff"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a244c"
+  },
+  "timestamp": {
+    "$date": "2025-09-22T08:14:21.902Z"
+  },
+  "watch_duration": 2423
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2505"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ac"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "timestamp": {
+    "$date": "2025-09-20T17:14:21.902Z"
+  },
+  "watch_duration": 6202
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2509"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24ad"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2449"
+  },
+  "timestamp": {
+    "$date": "2025-10-12T19:14:21.902Z"
+  },
+  "watch_duration": 3226
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2521"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2477"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T10:14:21.902Z"
+  },
+  "watch_duration": 5940
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2523"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b1"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2492"
+  },
+  "timestamp": {
+    "$date": "2025-09-27T14:14:21.902Z"
+  },
+  "watch_duration": 7994
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2529"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a243f"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T21:14:21.902Z"
+  },
+  "watch_duration": 7864
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252b"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a245c"
+  },
+  "timestamp": {
+    "$date": "2025-09-26T15:14:21.902Z"
+  },
+  "watch_duration": 8123
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a252d"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b2"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2499"
+  },
+  "timestamp": {
+    "$date": "2025-10-13T03:14:21.902Z"
+  },
+  "watch_duration": 3315
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2531"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2473"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T12:14:21.902Z"
+  },
+  "watch_duration": 1929
+},
+{
+  "_id": {
+    "$oid": "68f26b5d6fb4862d984a2532"
+  },
+  "user_id": {
+    "$oid": "68f265966fb4862d984a24b3"
+  },
+  "movie_id": {
+    "$oid": "68f25b136fb4862d984a2452"
+  },
+  "timestamp": {
+    "$date": "2025-10-05T14:14:21.902Z"
+  },
+  "watch_duration": 7224
+}]
