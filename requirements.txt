@@ -1,4 +1,9 @@
-flask
 pymongo
 rapidfuzz
 python-dotenv
+fastAPI
+uvicorn
+sentence-transformer(Semantic Search)
+bson
+
+

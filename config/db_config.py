@@ -13,3 +13,4 @@ db = client["movieDB"]
 
 def get_db():
     return db
+

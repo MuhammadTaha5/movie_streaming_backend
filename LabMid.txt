@@ -1,0 +1,49 @@
+## **Question 1 (Design Scenario — 45 marks)**
+
+**Scenario:**
+
+You are tasked to build a **movie streaming platform backend**. The platform must store:
+
+- Movies (title, release year, genres, cast, director, rating)
+- Users (name, email, subscription type)
+- Watch history (user, movie, timestamp, watch duration)
+- Reviews (user, movie, rating, text review)
+- Search functionality:
+    - Keyword search (by title, director, cast)
+    - Similarity search (typos like "Godfathe" → "The Godfather")
+    - Hybrid search that ranks results using:
+        - Title similarity
+        - Average rating
+        - Popularity (watch count)
+
+**Tasks:**
+
+1. Design MongoDB schema (with relationships, nested docs for cast/genres).
+2. Propose indexes for multi-field search.
+3. Sketch APIs for:
+    - /movies/search?query=...
+    - /users/<id>/history
+    - /movies/<id>/reviews
+4. Write one aggregation query: “Top 5 most-watched movies in the last month.”
+
+## **Question 2 (Mini-Project — 55 marks)**
+
+**Implementation:**
+
+1. Create a MongoDB dataset with the data ~~emailed to you~~ of your choice.
+2. Implement 3 APIs:
+    - User’s watch history.
+    - Movie reviews.
+    - Hybrid search (/movies/search).
+3. Bonus: Rank search results by a weighted formula (e.g., 50% similarity, 30% rating, 20% popularity).
+4. Submit source, dataset, README and execution screenshots.
+## **Evaluation Rubric**
+
+- Schema design (30)
+- API design (15)
+- Implementation correctness (25)
+- Documentation (5)
+- Search (15)
+- Bonus (10)
+
+

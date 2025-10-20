@@ -7,6 +7,11 @@ from services.hybridSearch import hybrid_search_title
 from services.userHistory import getUserHistoryById
 from services.reviewsdata import get_movie_reviews
 from services.topWatchedMovies import getPopularMovies
+from services.addUser import User, addUser
+from services.addReview import Review, addReview
+from services.avgRating import getAverageRating
+
+
 app = FastAPI()
 @app.get("/")
 def home():
@@ -53,4 +58,22 @@ def movie_reviews(movie_id: str):
 def topWatchedMovies():
     return {
         'Result': getPopularMovies()
+    }
+
+@app.post("/users/registration")
+def create_user(user: User):
+    user_id = addUser(user)
+    return {"message": "User added successfully", "user_id": user_id}
+
+@app.post("/Movie/addReview")
+def addUserReview(rev: Review):
+    reviewId = addReview(rev)
+    return {
+        'message': 'Review Added successfully', 'review_id': reviewId
+    }
+
+@app.get("/movie/{movie_id}/avgRating")
+def getAvgRating(movie_id: str):
+    return{
+        'message': getAverageRating(movie_id)
     }
