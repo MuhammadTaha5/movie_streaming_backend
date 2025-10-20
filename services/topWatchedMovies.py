@@ -13,25 +13,25 @@ last_month_date = datetime.utcnow() - timedelta(days=30)
 pipeline = [
     {
         '$match': {
-            'timestamp': {'$gte': last_month_date}  # only last 30 days
+            'timestamp': {'$gte': last_month_date}  
         }
     },
     {
         '$group': {
             '_id': '$movie_id',
-            'total_watches': {'$sum': 1},  # number of times watched
+            'total_watches': {'$sum': 1}, 
             'total_watch_time': {'$sum': '$watch_duration'}
         }
     },
     {
-        '$sort': {'total_watches': -1}  # sort by watch count
+        '$sort': {'total_watches': -1}  
     },
     {
-        '$limit': 5  # top 5
+        '$limit': 5 
     },
     {
         '$lookup': {
-            'from': 'movies',              # assuming movies collection
+            'from': 'movies',              
             'localField': '_id',
             'foreignField': '_id',
             'as': 'movie_info'

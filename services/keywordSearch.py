@@ -5,10 +5,7 @@ db = get_db()
 movies_col = db["movies"]
 
 def keyword_search(title=None, director=None, cast=None, limit=10):
-    """
-    Performs fuzzy keyword search across title, director, and cast.
-    Returns only the top 'limit' movies sorted by combined match score.
-    """
+    
     movies = list(movies_col.find({}, {"_id": 0, "embedding": 0}))
     results = []
 
