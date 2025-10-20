@@ -1,9 +1,9 @@
-pymongo
-rapidfuzz
-python-dotenv
-fastAPI
-uvicorn
-sentence-transformer(Semantic Search)
-bson
-
-
+fastapi==0.115.0
+uvicorn==0.30.6
+pymongo==4.15.3
+bson==0.5.10
+python-dotenv==1.0.1
+numpy==1.26.4
+scikit-learn==1.5.2
+sentence-transformers==3.0.1
+pydantic==2.8.2

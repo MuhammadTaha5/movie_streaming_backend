@@ -138,6 +138,15 @@ The database uses four main collections:
   }
 }
 
+### 📚 **Indexing Strategy**
+
+Indexes are created to optimize search and aggregation performance across collections.
+
+* **Movies:** Text index on `title`, `director`, `cast.name` + indexes on `genres`, `rating.average`, `popularity`.
+* **Users:** Unique index on `email`, and index on `name`.
+* **Reviews & WatchHistory:** Indexes on `movie_id`, `user_id`, and `timestamp` for faster lookups and analytics.
+
+
 ###  **🌐 API Design**
 API endpoints
 
